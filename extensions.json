@@ -46,6 +46,17 @@
             "directory": "xExtension-ClickableLinks"
         },
         {
+            "name": "Colorful List",
+            "author": "Claud Xiao",
+            "description": "Colorful Entry Title based on RSS source",
+            "version": 0.1,
+            "entrypoint": "ColorfulList",
+            "type": "user",
+            "url": "https://github.com/FreshRSS/Extensions",
+            "method": "git",
+            "directory": "xExtension-ColorfulList"
+        },
+        {
             "name": "Copy2Clipboard",
             "author": "CNTools | Clemens Neubauer",
             "description": "Copy the destination links of all visible entries into clipboard",
